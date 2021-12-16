@@ -1,7 +1,13 @@
 # CAFB Post Sales-Delivery Data Analysis
 
 ## Overview:
-We have been given a sample data and being asked to pull some meaningful insights out of it using Tableau/Excel. We have used Tableau to make these visualizations. 
+We have been given a sample data and being asked to pull some meaningful insights out of it using Tableau/Excel. We have used Tableau to make these visualizations.
+
+[Please follow this link to see the visualizations.](https://public.tableau.com/app/profile/neeraj.jain3522/viz/CAFB/OrderStatsatCAFB?publish=yes)
+
+![](https://github.com/neerajain9/CAFB/blob/Data-Science/dashboard.png?raw=true)
+
+
 
 ## Audience:
 The audience for the report is Food Bank staff, responsible for overseeing the distribution of product across our service area.
